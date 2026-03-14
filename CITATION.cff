@@ -2,7 +2,14 @@ cff-version: 1.2.0
 message: "如果您引用此理論框架，請依照下列格式："
 authors:
   - family-names: "Cret"
+    given-names: "" 
 title: "Human Basic Evolution Equation (ΨSEP)"
 version: 0.43
 date-released: 2026-03-14
 url: "https://github.com/cnomic-dev/human-basic-evolution-equation"
+license: CC-BY-SA-4.0
+keywords:
+  - "Mathematical Physics"
+  - "Evolutionary Biology"
+  - "Symbiotic Evolution"
+  - "Kato-Rellich Theory"

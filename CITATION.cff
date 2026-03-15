@@ -4,8 +4,8 @@ authors:
   - family-names: "Cret"
     given-names: "" 
 title: "Human Basic Evolution Equation (ΨSEP)"
-version: 0.43
-date-released: 2026-03-14
+version: 0.44
+date-released: 2026-03-15
 url: "https://github.com/cnomic-dev/human-basic-evolution-equation"
 license: CC-BY-SA-4.0
 keywords:
